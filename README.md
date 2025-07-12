@@ -8,19 +8,20 @@ This repository will be used to collaborate as a team, manage code, documentatio
 
 ## 🧠 Problem Statement
 
-> The problem statement will be provided by the organizers on the day of the hackathon (12th July 2025).  
-This section will be updated once the challenge is revealed.
-
+> Skill Swap Platform
+Overview:
+Develop a Skill Swap Platform — a mini application that enables users to list their skills and
+request others in return
 ---
 
 ## 👥 Team Information
 
 - *Team Name*: Team QuadraSpark
 - *Team Members*:
-  - Mahima Kanwar  
-  - Sonal Sharma  
-  - Mouly Dangarwala 
-  - Shreya Bhatt
+  - Mahima Kanwar (rajpurohitmahima99@gmail.com)
+  - Sonal Sharma  (sharma57sona@gmail.com)
+  - Mouly Dangarwala (mouly068@gmail.com)
+  - Shreya Bhatt (shreya77bhatt@gmail.com)
 
 ---
 
